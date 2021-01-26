@@ -80,7 +80,7 @@
     margin-top: 10px;
 }
 
-.scala3doc-searchbar-result:hover {
+.scala3doc-searchbar-result[selected] {
     background-color: #d4edff;
 }
 
